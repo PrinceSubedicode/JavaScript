@@ -5,5 +5,6 @@ let d = BigInt("34455")
 let e = "Prince"
 let f = undefined
 let g= Symbol("symbol Description.....")
+let h // it is also undefined
 console.log(a,b,c,d,e,f,g)
 console.log(typeof c);
