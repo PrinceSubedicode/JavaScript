@@ -1,0 +1,8 @@
+let a = null
+let b = 345
+let c = true
+let d = BigInt("34455")
+let e = "Prince"
+let f = undefined
+let g= Symbol("symbol Description.....")
+console.log(a,b,c,d,e,f,g)
