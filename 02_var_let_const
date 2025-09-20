@@ -1,0 +1,11 @@
+var a= 40
+let b=50
+{
+    var a= 50    //when var is used this var value is use for all a
+    let b=60
+    console.log(b)
+    console.log(a)
+}
+
+console.log(a)
+console.log(b)
